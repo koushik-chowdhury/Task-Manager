@@ -30,7 +30,7 @@ A simple Task Manager application built with React and JavaScript, allowing user
 
 1. **Clone the Repository**:
     ```bash
-    git clone https://github.com/koushik-chowdhury/task-manager.git
+    git clone https://github.com/koushik-chowdhury/Task-Manager.git
     cd task-manager
     ```
 
