@@ -60,19 +60,19 @@ src
 
 ## Screenshot of the Project
 1. **Interface**
-![Project Image](/task-manager/projectScreenShot/1.png)
+![Project Image](/projectScreenShot/1.png)
 
 2. **Adding Task**
-![Project Image](/task-manager/projectScreenShot/2.png)
+![Project Image](/projectScreenShot/2.png)
 
 3. **Searching Task**
-![Project Image](/task-manager/projectScreenShot/3.png)
+![Project Image](/projectScreenShot/3.png)
 
 4. **Mark as Complete**
-![Project Image](/task-manager/projectScreenShot/4.png)
+![Project Image](/projectScreenShot/4.png)
 
 5. **Deleting Task**
-![Project Image](/task-manager/projectScreenShot/5.png)
+![Project Image](/projectScreenShot/5.png)
 
 
 
