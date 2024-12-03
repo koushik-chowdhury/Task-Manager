@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/koushik-chowdhury.github.io/Task-Manager/static/css/main.14e27e13.css",
+    "main.js": "/koushik-chowdhury.github.io/Task-Manager/static/js/main.b0f077ec.js",
+    "index.html": "/koushik-chowdhury.github.io/Task-Manager/index.html",
+    "main.14e27e13.css.map": "/koushik-chowdhury.github.io/Task-Manager/static/css/main.14e27e13.css.map",
+    "main.b0f077ec.js.map": "/koushik-chowdhury.github.io/Task-Manager/static/js/main.b0f077ec.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.14e27e13.css",
+    "static/js/main.b0f077ec.js"
+  ]
+}
